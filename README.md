@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently studying in final year B.Tech CSE
+- 🔭 I’m currently working on Machine Learning and Data Science.
+- 🌱 I’m currently studying Master of Technology in Information and Communication Technology with specialization in Machine Learning at Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT).
 - 📫 How to reach me: hinal.desai.17.06@gmail.com
 
